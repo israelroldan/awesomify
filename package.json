@@ -1,0 +1,26 @@
+{
+  "name": "awesomify",
+  "version": "0.0.1",
+  "description": "Make your open source product awesome!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israel Roldan (israel.roldan@sencha.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/israelroldan/awesomify.git"
+  },
+  "keywords": [
+    "opensource",
+    "oss",
+    "open",
+    "source",
+    "license"
+  ],
+  "bugs": {
+    "url": "https://github.com/israelroldan/awesomify/issues"
+  },
+  "homepage": "https://github.com/israelroldan/awesomify#readme"
+}
